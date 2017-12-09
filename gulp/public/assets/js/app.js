@@ -1,0 +1,1 @@
+!function(window,document,$,undefined){"use strict";!function(){var $public={};$public.doSomething=function(){console.log("testing")}}();window.Test=test,test.doSomething()}(window,document,jQuery);
